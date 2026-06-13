@@ -388,8 +388,8 @@ graph TD
 ### Step 1: Clone the Repository
 
 ```powershell
-git clone https://github.com/vidzai/ultra-audio-studio.git
-cd ultra-audio-studio
+git clone https://github.com/puspitaj300-code/Speech-to-speech-Project-.git
+cd Speech-to-speech-Project-
 ```
 
 ### Step 2: Create a Python Virtual Environment
@@ -485,7 +485,7 @@ python -c "import streamlit; import fastapi; print('✅ Installation successful!
 
 ```powershell
 # Navigate to the project directory
-cd c:\Users\HP\OneDrive\Desktop\Spring Boot\speechtranslation
+cd Speech-to-speech-Project-
 
 # Run the main application
 python scripts/backend/app.py
@@ -547,13 +547,13 @@ pytest scripts/backend/ --cov=scripts.backend --cov-report=html
 ---
 ## ⭐ Star Us!
 
-If you find this project helpful, please consider giving it a ⭐ on [GitHub](https://github.com/vidzai/ultra-audio-studio)!
+If you find this project helpful, please consider giving it a ⭐ on [GitHub](https://github.com/puspitaj300-code/Speech-to-speech-Project-)!
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Infosys Springboard Team**
+**Made with ❤️ by puspitaj300-code**
 
 *Breaking Language Barriers Through AI* 🌍🎤
 
